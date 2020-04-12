@@ -50,7 +50,7 @@ GEM
       io-like (~> 0.3.0)
     arel (9.0.0)
     ast (2.4.0)
-    autoprefixer-rails (9.7.5)
+    autoprefixer-rails (9.7.6)
       execjs
     bcrypt (3.1.13)
     bindex (0.8.1)
@@ -254,7 +254,7 @@ GEM
     fog-voxel (0.1.0)
       fog-core
       fog-xml
-    fog-vsphere (3.2.5)
+    fog-vsphere (3.3.0)
       fog-core
       rbvmomi (>= 1.9, < 3)
     fog-xenserver (1.0.0)
@@ -355,13 +355,13 @@ GEM
       shellany (~> 0.0)
     optimist (3.0.0)
     os (1.1.0)
-    ovirt-engine-sdk (4.3.0)
+    ovirt-engine-sdk (4.4.0)
       json (>= 1, < 3)
     parallel (1.19.1)
     parser (2.7.1.0)
       ast (~> 2.4.0)
     pg (1.2.3)
-    pry (0.13.0)
+    pry (0.13.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (4.0.4)
@@ -405,7 +405,7 @@ GEM
     rbovirt (0.1.7)
       nokogiri
       rest-client (> 1.7.0)
-    rbvmomi (2.3.1)
+    rbvmomi (2.4.0)
       builder (~> 3.0)
       json (>= 1.8)
       nokogiri (~> 1.5)
@@ -421,7 +421,7 @@ GEM
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
     retriable (3.1.2)
-    rexml (3.1.9)
+    rexml (3.2.4)
     rubocop (0.81.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
